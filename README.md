@@ -22,10 +22,10 @@ In order to get your debug messages you must add:<br>
   1. debug.debug('Success Message', 'Success');<br>
 
 --- Error ---<br>
-debug.debug('Error Message: ' + err, 'Error! ');<br>
+  2. debug.debug('Error Message: ' + err, 'Error! ');<br>
 
 # Errors<br>
-Date and Time must be included in each log <br>
+  1. Date and Time must be included in each log <br>
 
 *success* will be shown in green <br>
 *error* will be shown in red <br>
